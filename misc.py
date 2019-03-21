@@ -15,45 +15,16 @@ def print_model_parm_nums(model):
 
 def print_model_parm_flops(model,input):
 
-    # prods = {}
-    # def save_prods(self, input, output):
-        # print 'flops:{}'.format(self.__class__.__name__)
-        # print 'input:{}'.format(input)
-        # print '_dim:{}'.format(input[0].dim())
-        # print 'input_shape:{}'.format(np.prod(input[0].shape))
-        # grads.append(np.prod(input[0].shape))
-
-    prods = {}
-    def save_hook(name):
-        def hook_per(self, input, output):
-            # print 'flops:{}'.format(self.__class__.__name__)
-            # print 'input:{}'.format(input)
-            # print '_dim:{}'.format(input[0].dim())
-            # print 'input_shape:{}'.format(np.prod(input[0].shape))
-            # prods.append(np.prod(input[0].shape))
-            prods[name] = np.prod(input[0].shape)
-            # prods.append(np.prod(input[0].shape))
-        return hook_per
-
-    list_1=[]
-    def simple_hook(self, input, output):
-        list_1.append(np.prod(input[0].shape))
-    list_2={}
-    def simple_hook2(self, input, output):
-        list_2['names'] = np.prod(input[0].shape)
-
-
-    multiply_adds = False
     list_conv=[]
     def conv_hook(self, input, output):
         batch_size, input_channels, input_time, input_height, input_width = input[0].size()
         output_channels, output_time, output_height, output_width = output[0].size()
         
-        kernel_ops = self.kernel_size[0] * self.kernel_size[1] * self.kernel_size[2] *(self.in_channels / self.groups) * (2 if multiply_adds else 1)
+        kernel_ops = self.kernel_size[0] * self.kernel_size[1] * self.kernel_size[2] *(self.in_channels )
         bias_ops = 1 if self.bias is not None else 0
 
-        params = output_channels * (kernel_ops + bias_ops)
-        flops = batch_size * params  * output_time * output_height * output_width
+        params = output_channels * (kernel_ops+ bias_ops)
+        flops = params * output_time * output_height * output_width
         list_conv.append(flops)
 
 
@@ -61,10 +32,10 @@ def print_model_parm_flops(model,input):
     def linear_hook(self, input, output):
         batch_size = input[0].size(0) if input[0].dim() == 2 else 1
 
-        weight_ops = self.weight.nelement() * (2 if multiply_adds else 1)
+        weight_ops = self.weight.nelement() * 1
         bias_ops = self.bias.nelement()
 
-        flops = batch_size * (weight_ops + bias_ops)
+        flops = (weight_ops + bias_ops)
         list_linear.append(flops)
 
     list_bn=[] 
@@ -115,8 +86,7 @@ def print_model_parm_flops(model,input):
             return
         for c in childrens:
                 foo(c)
-
     foo(model)
     output = model(input)
-    total_flops = (sum(list_conv)+sum(list_linear))#+sum(list_bn)+sum(list_relu))
+    total_flops = (sum(list_conv)+sum(list_linear)+sum(list_bn)+sum(list_relu))
     print('  + Number of FLOPs: %.5f(e9)' % (total_flops / 1e9))
