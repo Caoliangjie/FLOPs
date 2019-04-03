@@ -1,10 +1,9 @@
 import csv
 import os
 filename = 'kinetics_train.csv'
-filename2 = 'butong.txt'
-filename3 = 'train.txt'
+filename2 = 'butong_train.txt'
 with open(filename,encoding="utf-8") as f:
- with open(filename3,encoding='utf-8') as f3:  
+ #with open(filename3,encoding='utf-8') as f3:  
   with open(filename2,'w') as f2:
     reader = csv.reader(f)
     for row in reader:

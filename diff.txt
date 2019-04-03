@@ -108,7 +108,7 @@ applauding/zQ0xlrrOcDI_000004_000014.mp4
 applauding/zT8TDSBFgT4_000000_000010.mp4
 applying_cream/1mAjYWlQIXs_000024_000034.mp4
 applying_cream/3WXeRhY8mWY_000120_000130.mp4
-applying_cream/47-s3_DWA_000022_000032.mp4
+applying_cream/47At-s3_DWA_000022_000032.mp4
 applying_cream/6vEuZxdEOC4_000022_000032.mp4
 applying_cream/AS9aL92iAbQ_000005_000015.mp4
 applying_cream/B-f5WBVf18A_000042_000052.mp4
@@ -157,7 +157,6 @@ archery/BAksX9tIa7A_000027_000037.mp4
 archery/bOSvjVmoFXY_000001_000011.mp4
 archery/BUaXiU7krKQ_000017_000027.mp4
 archery/BuJE6XGFbTk_000019_000029.mp4
-archery/c-uijVx8A_000032_000042.mp4
 archery/cGd1WYQRPtg_000038_000048.mp4
 archery/cHdxU7XgrdU_000009_000019.mp4
 archery/cPqgW4iA4Sc_000111_000121.mp4
@@ -258,7 +257,6 @@ arranging_flowers/4XLzgoGx8e4_000073_000083.mp4
 arranging_flowers/6wWZVWjt3V8_000127_000137.mp4
 arranging_flowers/8PIPXygKujk_000132_000142.mp4
 arranging_flowers/8Zb8tpOAIMI_000225_000235.mp4
-arranging_flowers/-7HgF7vrI_000014_000024.mp4
 arranging_flowers/CIlFC8TxnvQ_000307_000317.mp4
 arranging_flowers/CpAGThlY1qM_000554_000564.mp4
 arranging_flowers/dDl0MeGQmGU_000065_000075.mp4
@@ -285,7 +283,6 @@ assembling_computer/6tOv6Ui-_yI_000111_000121.mp4
 assembling_computer/6_Hwj73WfNw_000003_000013.mp4
 assembling_computer/8xrxp5Q9qZM_000016_000026.mp4
 assembling_computer/aJCLsaYvLIE_000515_000525.mp4
-assembling_computer/-ZJmcVhTw_001514_001524.mp4
 assembling_computer/cpOhZgIVzOg_000367_000377.mp4
 assembling_computer/CtQv1i8tytI_000192_000202.mp4
 assembling_computer/d3qx9t-BD60_000036_000046.mp4
@@ -441,7 +438,7 @@ balloon_blowing/Ekc6wk5lb20_000025_000035.mp4
 balloon_blowing/f6TtNYlYOqQ_000045_000055.mp4
 balloon_blowing/gHuB7k-utrs_000003_000013.mp4
 balloon_blowing/gnfazBEvkqk_000057_000067.mp4
-balloon_blowing/GVGp-_TO0_000000_000010.mp4
+balloon_blowing/GVGpAlQ_TO0_000000_000010.mp4
 balloon_blowing/H7vwHT14bmg_000184_000194.mp4
 balloon_blowing/HEcnXnrAeDc_000066_000076.mp4
 balloon_blowing/HEy5oaI-NGg_000002_000012.mp4
@@ -480,7 +477,6 @@ balloon_blowing/yw1QmnJbzRM_000084_000094.mp4
 balloon_blowing/zMRCh1qNs8M_000020_000030.mp4
 balloon_blowing/zV4Lc1KSxO8_000027_000037.mp4
 balloon_blowing/_YOB6AziaeE_000003_000013.mp4
-bandaging/-i-PFC52M_000081_000091.mp4
 bandaging/0Q_eAW6y0Vg_000064_000074.mp4
 bandaging/2fKvpqy_gWk_000145_000155.mp4
 bandaging/2NelhDcRxA0_002099_002109.mp4
@@ -612,7 +608,6 @@ bee_keeping/ccvoVcVVrJk_000435_000445.mp4
 bee_keeping/egb4b8fgu3M_000015_000025.mp4
 bee_keeping/g82P5XuX9H4_001006_001016.mp4
 bee_keeping/SXKzux-83Po_000016_000026.mp4
-bee_keeping/UBvlXu7AXwBf-A_000028_000038.mp4
 belly_dancing/-DqRBBvJvyo_000106_000116.mp4
 belly_dancing/-tIXtPsT5n4_000053_000063.mp4
 belly_dancing/1G-1ylSD8Pg_001541_001551.mp4
@@ -820,7 +815,6 @@ bending_metal/8xfhSNxgII4_000229_000239.mp4
 bending_metal/BgJyo6gba6g_000000_000010.mp4
 bending_metal/cZnFY6K4TXs_000166_000176.mp4
 bending_metal/daBNaVoqrKU_000001_000011.mp4
-bending_metal/HS-n6-5SY_000124_000134.mp4
 bending_metal/Ic_ozjqp1BU_000063_000073.mp4
 bending_metal/OcnZyw4gjx8_000003_000013.mp4
 bending_metal/PI7owJZLjcs_000002_000012.mp4
@@ -850,7 +844,6 @@ biking_through_snow/r9HyW0_CcSk_000042_000052.mp4
 biking_through_snow/t58GwgxBCt4_000414_000424.mp4
 biking_through_snow/tR6-xJCxcEc_000001_000011.mp4
 biking_through_snow/VySKvaeNayE_000129_000139.mp4
-biking_through_snow/WD8yK_-UTA_000044_000054.mp4
 biking_through_snow/XAufd-cVaYw_000169_000179.mp4
 biking_through_snow/z78lVijHd5M_000004_000014.mp4
 biking_through_snow/zBJJwksNJVs_000000_000010.mp4
@@ -903,12 +896,10 @@ blowing_glass/p4-CDqr7OG4_000065_000075.mp4
 blowing_glass/S1xcA973K48_001178_001188.mp4
 blowing_glass/SesxT2-ZWYo_000294_000304.mp4
 blowing_glass/SXF4gN9s_5Y_000097_000107.mp4
-blowing_glass/t7jHAEUU-_000016_000026.mp4
 blowing_glass/vljWo7gndGQ_000226_000236.mp4
 blowing_glass/VOlggkxqhkw_000003_000013.mp4
 blowing_glass/wnsDEp7nwCA_000091_000101.mp4
 blowing_glass/Ws6fcL6l4WY_000053_000063.mp4
-blowing_glass/WwxYMHZ-I_000009_000019.mp4
 blowing_glass/xgs7R44H5aM_000007_000017.mp4
 blowing_glass/y9UAazrYGXk_000019_000029.mp4
 blowing_glass/YYiYEEiOIOo_000040_000050.mp4
@@ -989,7 +980,6 @@ blowing_out_candles/Y3D4nmc4ALg_000445_000455.mp4
 bobsledding/1c1lGMeDals_000003_000013.mp4
 bobsledding/nHcBbssA65Y_000242_000252.mp4
 bobsledding/P--3ubtfTpo_000008_000018.mp4
-bobsledding/SM-Mxdmg4_000003_000013.mp4
 bobsledding/xbl_zMqP5Z0_000066_000076.mp4
 bobsledding/xgFGQzxrqbI_000113_000123.mp4
 bookbinding/62AF4Oneszo_000034_000044.mp4
@@ -1017,7 +1007,6 @@ bouncing_on_trampoline/K1lgFe4cy5s_000073_000083.mp4
 bouncing_on_trampoline/KG4MoZ5kHdg_000075_000085.mp4
 bouncing_on_trampoline/limHAEJCVdk_000143_000153.mp4
 bouncing_on_trampoline/mEjdbHBNwU8_000026_000036.mp4
-bouncing_on_trampoline/NdVAVf_Bf-Yk_000053_000063.mp4
 bouncing_on_trampoline/OP0yseT28is_000000_000010.mp4
 bouncing_on_trampoline/oucfu_BSEvM_000067_000077.mp4
 bouncing_on_trampoline/ox6Pp0WU6bU_000141_000151.mp4
@@ -1069,7 +1058,6 @@ braiding_hair/2U6NLXglfCU_000058_000068.mp4
 braiding_hair/2YvVumDFMWo_000002_000012.mp4
 braiding_hair/3yezUybim0k_000772_000782.mp4
 braiding_hair/5fbBV3viAw4_000074_000084.mp4
-braiding_hair/5j--T3xCmk_000041_000051.mp4
 braiding_hair/5nB7OtZkV60_000055_000065.mp4
 braiding_hair/5POC_2NS12c_000087_000097.mp4
 braiding_hair/5PYoc7bQ3zs_000026_000036.mp4
@@ -1284,7 +1272,6 @@ brushing_teeth/1veyeeqoFYE_000000_000010.mp4
 brushing_teeth/3E448_prMYM_000044_000054.mp4
 brushing_teeth/82q0Lno35qA_000016_000026.mp4
 brushing_teeth/99UZkKR6eRQ_000268_000278.mp4
-brushing_teeth/BGqAXw-9SQ3I_000099_000109.mp4
 brushing_teeth/BufrhtImSGo_000015_000025.mp4
 brushing_teeth/chLLSOaSFYA_000055_000065.mp4
 brushing_teeth/eUsgYaKu31w_000025_000035.mp4
@@ -1313,7 +1300,6 @@ building_cabinet/3GruWarX78A_000156_000166.mp4
 building_cabinet/5HR-71l8ovQ_000083_000093.mp4
 building_cabinet/aKWAFwguqQA_000084_000094.mp4
 building_cabinet/Eya2VHjLPPk_000569_000579.mp4
-building_cabinet/fno5fO-0w_000023_000033.mp4
 building_cabinet/H63DhcO7ZRs_000019_000029.mp4
 building_cabinet/he1Etaw8GdE_000473_000483.mp4
 building_cabinet/jHL_UjsFOOs_000124_000134.mp4
@@ -1547,7 +1533,6 @@ catching_or_throwing_baseball/pI2cfdmRDFc_000002_000012.mp4
 catching_or_throwing_baseball/qIPHqo6boWc_000032_000042.mp4
 catching_or_throwing_baseball/rreJsFH-xZg_000007_000017.mp4
 catching_or_throwing_baseball/V32htvlG3bo_000004_000014.mp4
-catching_or_throwing_baseball/W-KutPEag_000001_000011.mp4
 catching_or_throwing_baseball/yEbKK19Z34s_000037_000047.mp4
 catching_or_throwing_baseball/ylAsfSK8-mQ_000068_000078.mp4
 catching_or_throwing_baseball/ZUO5XO4PPDk_000112_000122.mp4
@@ -1638,7 +1623,6 @@ celebrating/GEFpcpPIl8s_000309_000319.mp4
 celebrating/i_ef2ANg6iw_000000_000010.mp4
 celebrating/j0YsaZtxMNg_000005_000015.mp4
 celebrating/JiSGZVUVN5s_000219_000229.mp4
-celebrating/jOj2N-Bf-FTc_000099_000109.mp4
 celebrating/kfYBRqXPW2I_000077_000087.mp4
 celebrating/Ko45a7Hy1vE_001388_001398.mp4
 celebrating/LYNXkS3JIS0_000400_000410.mp4
@@ -1667,7 +1651,6 @@ celebrating/yii3GOHzOpU_000141_000151.mp4
 celebrating/yTF2jyYXpjY_000096_000106.mp4
 celebrating/ZGzRh-eG09Y_000054_000064.mp4
 celebrating/Ztrbz_Zf1NY_000695_000705.mp4
-celebrating/_TOtd_-VOw_000952_000962.mp4
 celebrating/_xMbSstDLr8_000279_000289.mp4
 changing_oil/0iBRNmzgpVE_000019_000029.mp4
 changing_oil/2ZVuiJ3SVQ0_000339_000349.mp4
@@ -1704,7 +1687,6 @@ changing_wheel/AU5P7xKMC9E_000004_000014.mp4
 changing_wheel/bRzPTyq5M2A_000025_000035.mp4
 changing_wheel/jrNctliP-BA_000004_000014.mp4
 changing_wheel/LQv4mWvpQh0_000108_000118.mp4
-changing_wheel/Mikgz_Bf-LYQ_000169_000179.mp4
 changing_wheel/nVUcJCBLJwQ_000011_000021.mp4
 changing_wheel/nzboXDfm7_g_000232_000242.mp4
 changing_wheel/Qr5ypP0XbhE_000059_000069.mp4
@@ -1714,7 +1696,6 @@ checking_tires/aAnJl8KaVdM_000198_000208.mp4
 checking_tires/hkGhcIWfGJE_000000_000010.mp4
 checking_tires/M3J2olwdO_c_000599_000609.mp4
 checking_tires/nITSS60a0EA_000026_000036.mp4
-checking_tires/O-GH7Z-QQ_000051_000061.mp4
 checking_tires/tkdKJR9VF9U_000010_000020.mp4
 checking_tires/TPwJanXqhvk_000019_000029.mp4
 checking_tires/ZKgQc1YScrs_000064_000074.mp4
@@ -1804,7 +1785,6 @@ clean_and_jerk/HH5z-V87KPE_000028_000038.mp4
 clean_and_jerk/hIGbfna2BXQ_000001_000011.mp4
 clean_and_jerk/iCZz6zrxyow_000000_000010.mp4
 clean_and_jerk/lgcyYDxeqLE_000006_000016.mp4
-clean_and_jerk/N0p2r-QCE_000000_000010.mp4
 clean_and_jerk/royYROpq06k_000006_000016.mp4
 clean_and_jerk/shX5QvkBgLs_000057_000067.mp4
 clean_and_jerk/tFm3ld1skf4_000005_000015.mp4
@@ -1818,7 +1798,6 @@ cleaning_floor/-CKxGFN-5Zg_000052_000062.mp4
 cleaning_floor/82OnYCt8s28_000076_000086.mp4
 cleaning_floor/8OrfaWbzZEw_000106_000116.mp4
 cleaning_floor/9excSeGk-KY_000269_000279.mp4
-cleaning_floor/A-pCiiY3k_000008_000018.mp4
 cleaning_floor/BIwmV1OCBdY_000000_000010.mp4
 cleaning_floor/BMnUGlwDE94_000000_000010.mp4
 cleaning_floor/B_lp9bZG09g_000015_000025.mp4
@@ -1860,7 +1839,6 @@ cleaning_gutters/RykanTCaCzI_000151_000161.mp4
 cleaning_gutters/v2etRP_BmJg_000124_000134.mp4
 cleaning_gutters/yE0bVpKoVXI_000067_000077.mp4
 cleaning_gutters/yLclxXEBxjw_000000_000010.mp4
-cleaning_pool/AXwBf-F5CLvIlo_000039_000049.mp4
 cleaning_pool/1scesQQaA9w_000000_000010.mp4
 cleaning_pool/2cVRqST5xq8_000001_000011.mp4
 cleaning_pool/2PT4NLXrijc_000030_000040.mp4
@@ -2030,7 +2008,6 @@ climbing_tree/OEP4cpSsimA_000107_000117.mp4
 climbing_tree/pJxWQXFIixg_000079_000089.mp4
 climbing_tree/pwMmc-9EQmk_000010_000020.mp4
 climbing_tree/qd59F-4dhRw_000037_000047.mp4
-climbing_tree/qK-fSfe1I_000004_000014.mp4
 climbing_tree/RC0KAgUsU_w_000031_000041.mp4
 climbing_tree/Rr7vchnMHM0_000116_000126.mp4
 climbing_tree/rUuygpK8pMI_000069_000079.mp4
@@ -2095,7 +2072,6 @@ cooking_chicken/hingT1qnzZk_000252_000262.mp4
 cooking_chicken/holNCpltSig_000740_000750.mp4
 cooking_chicken/HozmNUv-j7U_000059_000069.mp4
 cooking_chicken/icrZ_xT21Lo_000223_000233.mp4
-cooking_chicken/iZAZgR4-E_000647_000657.mp4
 cooking_chicken/J9z471DdfH8_000303_000313.mp4
 cooking_chicken/JD3bQMz1ZQk_000300_000310.mp4
 cooking_chicken/kmeyGvohwlM_000766_000776.mp4
@@ -2238,7 +2214,6 @@ counting_money/XbU4AxoiOZ0_000014_000024.mp4
 counting_money/xE-fUhFzwAA_000006_000016.mp4
 counting_money/xjndhPnI5mA_000029_000039.mp4
 counting_money/Y41ezRjzJws_000020_000030.mp4
-country_line_dancing/8B0n_Bf-XUoI_000004_000014.mp4
 country_line_dancing/dUu1qyH5j34_000040_000050.mp4
 country_line_dancing/F4j8f_y97ck_000044_000054.mp4
 country_line_dancing/I8kmmsIouJA_000106_000116.mp4
@@ -2248,7 +2223,6 @@ country_line_dancing/M78cgnZaj-c_000071_000081.mp4
 country_line_dancing/OtIiWObo1QM_000178_000188.mp4
 country_line_dancing/QL4fWZqPTuc_000101_000111.mp4
 country_line_dancing/qRBOzU-AZNY_000048_000058.mp4
-country_line_dancing/rt9_O1-Bg_000490_000500.mp4
 country_line_dancing/yshqlj8QDho_000021_000031.mp4
 cracking_neck/0kkLUfAjPJw_000123_000133.mp4
 cracking_neck/5kf9dC9FZ8E_000042_000052.mp4
@@ -2301,7 +2275,6 @@ crawling_baby/aZY0F86RbMM_000007_000017.mp4
 crawling_baby/I7gDJ6hQ0X4_000011_000021.mp4
 crawling_baby/J_MFJDs1f0Y_000000_000010.mp4
 crawling_baby/kc80Iq1wILA_000009_000019.mp4
-crawling_baby/L_KiAXw-3WX8_000001_000011.mp4
 crawling_baby/NewSn78ZRFU_000002_000012.mp4
 crawling_baby/Oj1bwYNySuI_000022_000032.mp4
 crawling_baby/pgFFRKF5EOw_000081_000091.mp4
@@ -2322,7 +2295,6 @@ crossing_river/3prZK1rUGz8_000002_000012.mp4
 crossing_river/4dVCdLdyz5c_000022_000032.mp4
 crossing_river/6yHq5wDYyBw_000008_000018.mp4
 crossing_river/71nrlbLYkkw_000002_000012.mp4
-crossing_river/A-4Ur25e8_000004_000014.mp4
 crossing_river/ATJv9erOloA_000003_000013.mp4
 crossing_river/CC93TPaA4lI_001928_001938.mp4
 crossing_river/cRZeJBaBego_000033_000043.mp4
@@ -2343,7 +2315,6 @@ crossing_river/QK2FxDWU_HI_000001_000011.mp4
 crossing_river/QNuGxCVHgxA_000024_000034.mp4
 crossing_river/UPGuyBU1MDc_000113_000123.mp4
 crossing_river/UXAACguEAPY_000002_000012.mp4
-crossing_river/w-Bf-X8JjVb4_000006_000016.mp4
 crossing_river/_WsKPxXW73Y_000013_000023.mp4
 crying/-L_0WslSr2Q_000022_000032.mp4
 crying/-vMURY2JJ5I_000004_000014.mp4
@@ -2639,7 +2610,6 @@ dancing_ballet/NNl7VHLxyyc_000003_000013.mp4
 dancing_ballet/NOotDhtrMVs_000108_000118.mp4
 dancing_ballet/op47i_tcq_w_000029_000039.mp4
 dancing_ballet/Oz-MILvvjaI_000185_000195.mp4
-dancing_ballet/P5R__GY76M_000063_000073.mp4
 dancing_ballet/pUQXlqVvcmI_000004_000014.mp4
 dancing_ballet/qXZe3fBCydQ_000009_000019.mp4
 dancing_ballet/RTgl4oKX54Y_000004_000014.mp4
@@ -2703,7 +2673,6 @@ dancing_gangnam_style/pxNQq-XcJS4_000215_000225.mp4
 dancing_gangnam_style/rkUjLdAdoB4_000079_000089.mp4
 dancing_gangnam_style/S89Jjn0Qe-E_000020_000030.mp4
 dancing_gangnam_style/sFXo5gC0IC4_000019_000029.mp4
-dancing_gangnam_style/VY8QXRk0-_000084_000094.mp4
 dancing_gangnam_style/y43wYETnTcs_000104_000114.mp4
 dancing_gangnam_style/_LOZjoK3gf0_000073_000083.mp4
 dancing_gangnam_style/_XysGlcNr6s_000037_000047.mp4
@@ -2714,8 +2683,6 @@ dancing_macarena/4CdwW7CD5cI_000000_000010.mp4
 dancing_macarena/96tMC3Zv8AU_000020_000030.mp4
 dancing_macarena/BFLOyW4hr7A_000071_000081.mp4
 dancing_macarena/ChVF2EM5Rgc_000036_000046.mp4
-dancing_macarena/FGNr--Om2w_000061_000071.mp4
-dancing_macarena/Fi2F_-WIUM_000042_000052.mp4
 dancing_macarena/FPZplLfJ6J8_000148_000158.mp4
 dancing_macarena/GGA1c612ZXI_000127_000137.mp4
 dancing_macarena/iKAr1OmeJg8_000004_000014.mp4
@@ -2834,7 +2801,6 @@ diving_cliff/4eUof-cHfUE_000023_000033.mp4
 diving_cliff/68Ph_RKMLIM_000005_000015.mp4
 diving_cliff/6t46rpXfUJE_000046_000056.mp4
 diving_cliff/7ZJ0SGSoe3A_000054_000064.mp4
-diving_cliff/9XrJK5-LA_000004_000014.mp4
 diving_cliff/a7H7QTOKvy8_000024_000034.mp4
 diving_cliff/abIU_p26DtQ_000310_000320.mp4
 diving_cliff/bVRic-R4v1c_000087_000097.mp4
@@ -2917,7 +2883,6 @@ doing_nails/7dD_CtMWuDQ_000067_000077.mp4
 doing_nails/7FH4iejBFlE_000306_000316.mp4
 doing_nails/8p4TKgzezdY_000027_000037.mp4
 doing_nails/9OPKpyTEaO8_000005_000015.mp4
-doing_nails/-ZpLyQHLQ_000019_000029.mp4
 doing_nails/AlzOkoZm7Bw_000211_000221.mp4
 doing_nails/An5CV2n2464_000013_000023.mp4
 doing_nails/at7sIcfVf9k_000050_000060.mp4
@@ -2994,7 +2959,6 @@ drawing/9vRhz8yYDn4_000053_000063.mp4
 drawing/amveLLUGIuA_000107_000117.mp4
 drawing/DXdHpb0mkhk_000157_000167.mp4
 drawing/DXxsmkbbR_o_000025_000035.mp4
-drawing/F-Bf-Lh5YILI_000091_000101.mp4
 drawing/fzq0nBrDibU_000007_000017.mp4
 drawing/GTo1Ii_R1iI_000057_000067.mp4
 drawing/IPn92utCW4s_000010_000020.mp4
@@ -3020,7 +2984,6 @@ dribbling_basketball/AeqcERpuGDY_000064_000074.mp4
 dribbling_basketball/ArZhb-DYeQ4_000014_000024.mp4
 dribbling_basketball/bnQWQbk5lZA_000012_000022.mp4
 dribbling_basketball/C4QMQwnw7WM_000061_000071.mp4
-dribbling_basketball/CCeahK-AQ_000043_000053.mp4
 dribbling_basketball/DIVlXsfwHRk_000082_000092.mp4
 dribbling_basketball/f5Er_0314lc_000022_000032.mp4
 dribbling_basketball/gCkNuYNJ__k_000015_000025.mp4
@@ -3067,7 +3030,6 @@ drinking_beer/0aQE7Zcaxzo_000575_000585.mp4
 drinking_beer/0Vz2bvUBwuo_000013_000023.mp4
 drinking_beer/2ydRMRWhMao_000001_000011.mp4
 drinking_beer/8KHrLIxNSXA_000044_000054.mp4
-drinking_beer/8zNm632-0_000086_000096.mp4
 drinking_beer/aYh-SxHo5Pk_000012_000022.mp4
 drinking_beer/BTCUCNDY97I_000018_000028.mp4
 drinking_beer/CjtpEdN72og_000002_000012.mp4
@@ -3284,7 +3246,6 @@ driving_tractor/YjMo4-A1aVA_000016_000026.mp4
 driving_tractor/ZPNZIw3Vpc4_000000_000010.mp4
 drop_kicking/301JgLdgj3w_000008_000018.mp4
 drop_kicking/4fbqENvQAyA_000091_000101.mp4
-drop_kicking/-5s75lYII_000001_000011.mp4
 drop_kicking/auH-cCDYJ5c_000002_000012.mp4
 drop_kicking/BtsgIqNix1I_000038_000048.mp4
 drop_kicking/E1lgSQffSFQ_000001_000011.mp4
@@ -3596,7 +3557,6 @@ eating_chips/87ev8WxTzBo_000094_000104.mp4
 eating_chips/a-R2dIdPnj4_000060_000070.mp4
 eating_chips/A61RP1iexTk_000074_000084.mp4
 eating_chips/bnchhyMcu-E_000001_000011.mp4
-eating_chips/D_-KnXte0Y_000001_000011.mp4
 eating_chips/eFowH16n2bI_000018_000028.mp4
 eating_chips/f74_z2nJ4qE_000021_000031.mp4
 eating_chips/FDGqc3fNSTM_000096_000106.mp4
@@ -3765,7 +3725,6 @@ extinguishing_fire/85ZCb178CGE_000048_000058.mp4
 extinguishing_fire/AmZwGMh8mjI_000123_000133.mp4
 extinguishing_fire/aN1EYlhmJ3Y_000028_000038.mp4
 extinguishing_fire/eJhiy2A8AM4_000008_000018.mp4
-extinguishing_fire/FT6_Bf-hipgk_000311_000321.mp4
 extinguishing_fire/G2nXRR6zNFA_000048_000058.mp4
 extinguishing_fire/GPU8QqLdJ9M_000019_000029.mp4
 extinguishing_fire/JoelIMwTRRA_000013_000023.mp4
@@ -3854,7 +3813,6 @@ feeding_birds/yjrUeuAtZgg_000225_000235.mp4
 feeding_birds/zMBMFkZrqY4_000002_000012.mp4
 feeding_birds/zXEOxwV_YZs_000001_000011.mp4
 feeding_fish/5r7d7IPBPNk_000001_000011.mp4
-feeding_fish/63qfV__N80_000004_000014.mp4
 feeding_fish/6EXrRAcaMOA_000025_000035.mp4
 feeding_fish/adyNBbXKwds_000003_000013.mp4
 feeding_fish/AE3WyhO2Hqc_000083_000093.mp4
@@ -3904,7 +3862,6 @@ feeding_goats/MMuNm68n1S0_000002_000012.mp4
 feeding_goats/OlhxgoqtwoQ_000086_000096.mp4
 feeding_goats/p3vW1FblsJ0_000000_000010.mp4
 feeding_goats/Qj5lEwE2qDk_000004_000014.mp4
-feeding_goats/QUAXwBf-gX651s_000019_000029.mp4
 feeding_goats/Rqt-AlVBzX4_000086_000096.mp4
 feeding_goats/shXuWml__NQ_000020_000030.mp4
 feeding_goats/T5bmbzSdMh8_000001_000011.mp4
@@ -3999,7 +3956,7 @@ filling_eyebrows/uHBTwgkJIvM_000014_000024.mp4
 filling_eyebrows/UrOthGHMMR8_000140_000150.mp4
 filling_eyebrows/V3lm9MuIqw8_000074_000084.mp4
 filling_eyebrows/Vn3hOEO_viU_000231_000241.mp4
-filling_eyebrows/vz2drmNAXwBf-k_000039_000049.mp4
+filling_eyebrows/vz2drmN-__k_000039_000049.mp4
 filling_eyebrows/wdsU5JHaeoo_000185_000195.mp4
 filling_eyebrows/x4TnoYUJQdY_000284_000294.mp4
 filling_eyebrows/XBpV1Py6JDg_000133_000143.mp4
@@ -4051,7 +4008,6 @@ fixing_hair/N1tGU6OCU_4_000150_000160.mp4
 fixing_hair/N9SzNeM8f2E_000019_000029.mp4
 fixing_hair/nWnn_8WinAo_000012_000022.mp4
 fixing_hair/OFVJXkd-mNs_000004_000014.mp4
-fixing_hair/P4z9_Bf-EC7U_000254_000264.mp4
 fixing_hair/QibshNZT-bc_000147_000157.mp4
 fixing_hair/QqtjKJyn7t8_000045_000055.mp4
 fixing_hair/r0ss9RuUjZI_000207_000217.mp4
@@ -4073,7 +4029,6 @@ flipping_pancake/8cYChGsehvc_000001_000011.mp4
 flipping_pancake/9Jl5n0aZUKQ_000003_000013.mp4
 flipping_pancake/9SX6YYJaPCo_000003_000013.mp4
 flipping_pancake/a-yS9xpbYzc_000000_000010.mp4
-flipping_pancake/AD8-yJXPA_000003_000013.mp4
 flipping_pancake/aFOwVWGL5eI_000027_000037.mp4
 flipping_pancake/biAji1A3tD0_000002_000012.mp4
 flipping_pancake/bmZFaUzPt4g_000115_000125.mp4
@@ -4106,7 +4061,6 @@ flying_kite/bi-jpRJfMuc_000033_000043.mp4
 flying_kite/Cmd0SwtqEW4_000007_000017.mp4
 flying_kite/dtco8Klzj3Q_000007_000017.mp4
 flying_kite/iNRf6Az_Wnk_000000_000010.mp4
-flying_kite/j_-68GhQXs_000000_000010.mp4
 flying_kite/K30vK3UV_B8_000005_000015.mp4
 flying_kite/lEHJsZID4Jw_000240_000250.mp4
 flying_kite/lezTShfnybY_000050_000060.mp4
@@ -4461,7 +4415,6 @@ getting_a_tattoo/K2T1C1TcY0k_000038_000048.mp4
 getting_a_tattoo/lp0zyf_m_j8_000116_000126.mp4
 getting_a_tattoo/MWzVPwGGsJY_000228_000238.mp4
 getting_a_tattoo/P59sjdDgFvU_000050_000060.mp4
-getting_a_tattoo/P-XQA4SmI_000048_000058.mp4
 getting_a_tattoo/RCw0C1bTIrg_000396_000406.mp4
 getting_a_tattoo/v2rOA41zups_000117_000127.mp4
 getting_a_tattoo/vhN5y5YVpcg_000015_000025.mp4
@@ -4587,7 +4540,6 @@ grooming_horse/BgVX71Vtgzw_000051_000061.mp4
 grooming_horse/BHsA4Ke5LYk_000001_000011.mp4
 grooming_horse/CjZnDnL4zHg_000530_000540.mp4
 grooming_horse/fzcQT_XGGV0_000034_000044.mp4
-grooming_horse/inBCeFYU-_000212_000222.mp4
 grooming_horse/Jlau2UAvFi0_000083_000093.mp4
 grooming_horse/K7xoG4TLnYQ_000643_000653.mp4
 grooming_horse/lnoJiw66w8g_000080_000090.mp4
@@ -4638,7 +4590,6 @@ gymnastics_tumbling/znNxfz_Hp5k_000062_000072.mp4
 gymnastics_tumbling/ztst3X7piI0_000037_000047.mp4
 gymnastics_tumbling/_V_dVNsZmxQ_000001_000011.mp4
 hammer_throw/555GHu_yNrs_000097_000107.mp4
-hammer_throw/9iJAy5Si-_000039_000049.mp4
 hammer_throw/AAtTWh--erk_000004_000014.mp4
 hammer_throw/AAtY7Hg1il8_000003_000013.mp4
 hammer_throw/AQW39P_TOas_000011_000021.mp4
@@ -4652,7 +4603,6 @@ hammer_throw/IwiDDoOu_h0_000249_000259.mp4
 hammer_throw/JsT8nPRVWP8_000002_000012.mp4
 hammer_throw/KxqK7cljN4Q_000052_000062.mp4
 hammer_throw/kYQ2Uz9cozs_000008_000018.mp4
-hammer_throw/LIoAXw-5IPY4_000002_000012.mp4
 hammer_throw/mm4uczUmGOA_000007_000017.mp4
 hammer_throw/N3I244IQpeQ_000044_000054.mp4
 hammer_throw/otfb0sxTkEw_000001_000011.mp4
@@ -4672,7 +4622,6 @@ headbanging/C_JqhzynClc_000058_000068.mp4
 headbanging/Eex7GiWdnIU_000108_000118.mp4
 headbanging/FLpfY-Sb850_000046_000056.mp4
 headbanging/GtE_esrDTOc_000030_000040.mp4
-headbanging/H5G-Brjzg_000004_000014.mp4
 headbanging/ITeIDlIWlnU_000011_000021.mp4
 headbanging/Ljh0HrNuAAQ_000031_000041.mp4
 headbanging/pC2HmPCmB28_000000_000010.mp4
@@ -4709,7 +4658,6 @@ headbutting/ugyY8YoIQ2g_000002_000012.mp4
 headbutting/VfukuP3GUKI_000003_000013.mp4
 headbutting/VzbgXeSwBgQ_000001_000011.mp4
 headbutting/w2Rw6sacnMU_000000_000010.mp4
-headbutting/XhOeAXwBf-1noc_000143_000153.mp4
 headbutting/ygFOzQpqnFw_000003_000013.mp4
 high_jump/1ejMdhLCca0_000004_000014.mp4
 high_jump/3efVVCUCARo_000001_000011.mp4
@@ -4777,7 +4725,6 @@ hitting_baseball/bXmApvCAoAU_000035_000045.mp4
 hitting_baseball/C-6cKOO_3j4_000112_000122.mp4
 hitting_baseball/c1FiwaIq9Lg_000003_000013.mp4
 hitting_baseball/c28wEfU5V3I_000050_000060.mp4
-hitting_baseball/ciagBEM-U_000028_000038.mp4
 hitting_baseball/e3QFwWKifYo_000566_000576.mp4
 hitting_baseball/F1Coyt-LeEw_000045_000055.mp4
 hitting_baseball/GohcSwL-xiE_000027_000037.mp4
@@ -4986,7 +4933,6 @@ hurdling/ErlvbIVGPX4_000005_000015.mp4
 hurdling/GWv6BUKZ1aU_000004_000014.mp4
 hurdling/p01XCi0Y-VA_000021_000031.mp4
 hurdling/S4mJoHGzLXk_000027_000037.mp4
-hurdling/u8_-aCb4Nk_000001_000011.mp4
 hurdling/zTK1AJ54GU0_000047_000057.mp4
 hurling_(sport)/4f-GE7yNCNg_000866_000876.mp4
 hurling_(sport)/C_Oe60MoiRs_000041_000051.mp4
@@ -5076,7 +5022,6 @@ ironing/s9-wrvAlaYw_000032_000042.mp4
 ironing/tjKH_RR4x78_000077_000087.mp4
 ironing/vsRdEUO6-qQ_000678_000688.mp4
 ironing/xMXK7xhIW_4_000250_000260.mp4
-javelin_throw/-Bf-S9IDQPLg_000135_000145.mp4
 javelin_throw/-bXX-_3dsw4_000002_000012.mp4
 javelin_throw/-i3jjoN0gi8_000071_000081.mp4
 javelin_throw/02c_E66vdN8_000003_000013.mp4
@@ -5156,7 +5101,6 @@ jogging/RkxZvg23Lfo_000025_000035.mp4
 jogging/Uy3VHaI-j1w_000001_000011.mp4
 juggling_balls/9ql383eDj_s_000000_000010.mp4
 juggling_balls/a1vh6J2F03M_000001_000011.mp4
-juggling_balls/au-Bf-PW2hnY_000075_000085.mp4
 juggling_balls/g4RjHAXx8Zg_000000_000010.mp4
 juggling_balls/gbrIAqEDUUQ_000135_000145.mp4
 juggling_balls/gURHZ7OnwAc_000113_000123.mp4
@@ -5179,13 +5123,11 @@ juggling_fire/CitlWAFQ8KI_000001_000011.mp4
 juggling_fire/dYUX2XW-_c4_000046_000056.mp4
 juggling_fire/eEyhAgSDGTg_000118_000128.mp4
 juggling_fire/F7PSR7y2EYw_000060_000070.mp4
-juggling_fire/HErHI_Bf-3Qs_000019_000029.mp4
 juggling_fire/hV86yv2j9Xw_000009_000019.mp4
 juggling_fire/PkglXtwQw7I_000001_000011.mp4
 juggling_fire/QS1A6aGVHRk_000015_000025.mp4
 juggling_fire/r4duj-neZsI_000112_000122.mp4
 juggling_fire/WCYbD6vixfI_000003_000013.mp4
-juggling_fire/Wk-k_HX34_000008_000018.mp4
 juggling_fire/wn0W8_04ELY_000024_000034.mp4
 juggling_fire/WtBRlEIyypg_000000_000010.mp4
 juggling_fire/XpOBMJJrY_k_000033_000043.mp4
@@ -5224,11 +5166,9 @@ jumping_into_pool/6CJoZ3Fz3dE_000001_000011.mp4
 jumping_into_pool/9coLyV4wt6c_000054_000064.mp4
 jumping_into_pool/Aew296k7Axg_000004_000014.mp4
 jumping_into_pool/aRRMdPxlHB8_000002_000012.mp4
-jumping_into_pool/Bab-kn-Xo_000000_000010.mp4
 jumping_into_pool/BgCsIJ-KTrw_000006_000016.mp4
 jumping_into_pool/BGvjerOFU4U_000003_000013.mp4
 jumping_into_pool/duRjzaU2JyI_000003_000013.mp4
-jumping_into_pool/DvU-qzZZU_000001_000011.mp4
 jumping_into_pool/eId0TGJBPTQ_000007_000017.mp4
 jumping_into_pool/etUAt67jMsY_000009_000019.mp4
 jumping_into_pool/F7mE771GUdQ_000006_000016.mp4
@@ -5260,7 +5200,6 @@ jumping_into_pool/YkSQ6jV81Ls_000002_000012.mp4
 jumping_into_pool/ZcED9r6eFl0_000060_000070.mp4
 jumping_into_pool/zFk1CVIPsEU_000004_000014.mp4
 jumping_into_pool/_4XPzZ9MLmw_000015_000025.mp4
-jumping_into_pool/__dTOdxzXY_000022_000032.mp4
 jumpstyle_dancing/3VXotcpCUhw_000208_000218.mp4
 jumpstyle_dancing/4O24V35OUzs_000017_000027.mp4
 jumpstyle_dancing/5MXdAkbWHrU_000041_000051.mp4
@@ -5298,7 +5237,6 @@ kicking_field_goal/r3iMVe3HjvE_000003_000013.mp4
 kicking_field_goal/SvMylek3v-Y_000010_000020.mp4
 kicking_field_goal/uSN48OxPp3c_000007_000017.mp4
 kicking_field_goal/VwSNbD0Ag9g_000004_000014.mp4
-kicking_field_goal/wjA__q0ng0_000001_000011.mp4
 kicking_field_goal/XQzUVmTT-GU_000014_000024.mp4
 kicking_field_goal/yBgATFSs36Q_000012_000022.mp4
 kicking_soccer_ball/1g2aXUr_7lQ_000003_000013.mp4
@@ -5421,7 +5359,7 @@ kissing/mJNdT23O_sQ_000131_000141.mp4
 kissing/mk1kaG8Ulyo_000167_000177.mp4
 kissing/mLm-uvo_QcA_000029_000039.mp4
 kissing/Mtv39Kb8RNg_000160_000170.mp4
-kissing/Nk63H-v-Q_000072_000082.mp4
+kissing/Nk63H-vAlqQ_000072_000082.mp4
 kissing/nKagWDwu5uo_000090_000100.mp4
 kissing/Nn_m6yPF8XQ_000081_000091.mp4
 kissing/nO81ZV7i9hI_000012_000022.mp4
@@ -5651,7 +5589,6 @@ long_jump/5n2LsCNlbCk_000005_000015.mp4
 long_jump/7K6O4hSeicA_000060_000070.mp4
 long_jump/7pBL7EHtfmA_000003_000013.mp4
 long_jump/866C7azwggU_000005_000015.mp4
-long_jump/FQXvJ-_D4_000003_000013.mp4
 long_jump/Nnh8Zz00HhI_000010_000020.mp4
 long_jump/PqEuPg-u8co_000063_000073.mp4
 long_jump/SpNXgDO8Gow_000010_000020.mp4
@@ -5692,7 +5629,6 @@ making_a_cake/fMymdFCpVF0_000154_000164.mp4
 making_a_cake/GMroNGMpyAo_000513_000523.mp4
 making_a_cake/igU3yiyk3AE_000097_000107.mp4
 making_a_cake/jA51n_dNVkA_001073_001083.mp4
-making_a_cake/jz1T-GaIY_000413_000423.mp4
 making_a_cake/kHHAwQQJfW8_000577_000587.mp4
 making_a_cake/N6E254Dfp5U_000107_000117.mp4
 making_a_cake/ntrX8PUw3XU_000030_000040.mp4
@@ -5751,7 +5687,6 @@ making_bed/sOcbzP3LUdk_000284_000294.mp4
 making_bed/U83LJAEMcqU_000205_000215.mp4
 making_bed/uA4UBpWBvV0_000502_000512.mp4
 making_bed/UlzIJltpl_E_000281_000291.mp4
-making_bed/UrucFR_-UU_000555_000565.mp4
 making_bed/uW2jXlgblgE_000013_000023.mp4
 making_bed/W66xV5Iebxc_000126_000136.mp4
 making_bed/Yh73zFl-vt0_000135_000145.mp4
@@ -5809,7 +5744,6 @@ making_pizza/RHhlq_TLP8w_000061_000071.mp4
 making_pizza/t8wAGpqUueY_000119_000129.mp4
 making_pizza/TC7b7oaB6IE_000191_000201.mp4
 making_pizza/Tvt3apPbJZY_000330_000340.mp4
-making_pizza/uOJq6g4-0_000209_000219.mp4
 making_pizza/uqwTgsxsWw8_000031_000041.mp4
 making_pizza/uYNG0wQXK9M_000208_000218.mp4
 making_pizza/v46WyvPXZ3M_000061_000071.mp4
@@ -5923,7 +5857,6 @@ massaging_back/AUiBYz5AdEc_000144_000154.mp4
 massaging_back/BChEH5LJAAw_000340_000350.mp4
 massaging_back/beb7KAOlqw8_000099_000109.mp4
 massaging_back/BeJ5Udb8iPM_000045_000055.mp4
-massaging_back/BHA__ErDHo_000219_000229.mp4
 massaging_back/Br10316V_jM_000053_000063.mp4
 massaging_back/bRMTKfK11z8_000066_000076.mp4
 massaging_back/bs7CPwE3Kyw_000023_000033.mp4
@@ -6226,7 +6159,6 @@ massaging_person's_head/kXWql5Fb-YA_000269_000279.mp4
 massaging_person's_head/nMdOjXUlJdw_000360_000370.mp4
 massaging_person's_head/PE2nsVDW1mI_000000_000010.mp4
 massaging_person's_head/pev7oG8OqpM_000177_000187.mp4
-massaging_person's_head/pPQW3t-6A_000323_000333.mp4
 massaging_person's_head/PWBCgkfdLps_000036_000046.mp4
 massaging_person's_head/R2MjTJFlIlk_000122_000132.mp4
 massaging_person's_head/R9MfeVXZ3Sc_000238_000248.mp4
@@ -6257,7 +6189,6 @@ milking_cow/9X-u6Xt2G3A_000038_000048.mp4
 milking_cow/atrxq1GFAF8_000626_000636.mp4
 milking_cow/BnA9ac0TWl0_000087_000097.mp4
 milking_cow/BtRSj3Cmx0E_000230_000240.mp4
-milking_cow/d-Bf-9QDciKA_000008_000018.mp4
 milking_cow/eKeQ1fdXSFc_000020_000030.mp4
 milking_cow/elTi67JY-yY_000068_000078.mp4
 milking_cow/ENvhIfxhzn0_000003_000013.mp4
@@ -6287,7 +6218,7 @@ mopping_floor/e9NBttUHp1A_000029_000039.mp4
 mopping_floor/eFxSozQD_Ac_000004_000014.mp4
 mopping_floor/et3sHGwh-S0_000009_000019.mp4
 mopping_floor/gH7Dg1dgW5s_000209_000219.mp4
-mopping_floor/HVATdU6-U_000007_000017.mp4
+mopping_floor/HVATdU6AT-U_000007_000017.mp4
 mopping_floor/jocTi5nW8Ao_000003_000013.mp4
 mopping_floor/khQzPbzUTGM_000109_000119.mp4
 mopping_floor/laKctaVegPg_000072_000082.mp4
@@ -6366,7 +6297,6 @@ motorcycling/pEgTKRJxn1g_000010_000020.mp4
 motorcycling/PN3S32X0CJc_000504_000514.mp4
 motorcycling/pnWFb8Jz0XE_000873_000883.mp4
 motorcycling/qFOKBB2E8vE_000055_000065.mp4
-motorcycling/QGYI-TX-Y_000222_000232.mp4
 motorcycling/QTxEUMCxgDI_000496_000506.mp4
 motorcycling/r8jykv2remM_000395_000405.mp4
 motorcycling/RKxQtRpaBo0_000143_000153.mp4
@@ -6454,7 +6384,6 @@ mowing_lawn/tEdmOpJ0NoM_000668_000678.mp4
 mowing_lawn/TNguSdHiGeI_000004_000014.mp4
 mowing_lawn/tpjLKyWkaUQ_000086_000096.mp4
 mowing_lawn/TqsQTeykauw_000000_000010.mp4
-mowing_lawn/T_Bf-H1ZgyVo_000019_000029.mp4
 mowing_lawn/u2GFdN5VNOQ_000217_000227.mp4
 mowing_lawn/uaLMHEtFlNA_000162_000172.mp4
 mowing_lawn/vheMKnxwUhI_000009_000019.mp4
@@ -6517,7 +6446,6 @@ opening_present/GBA0ZLgph98_000000_000010.mp4
 opening_present/gjmKYC9homI_000463_000473.mp4
 opening_present/gyLxZSevOwE_000142_000152.mp4
 opening_present/hx2ixpeIDTc_000384_000394.mp4
-opening_present/JZd40BRI-_000394_000404.mp4
 opening_present/kbDnvzzhQdQ_000195_000205.mp4
 opening_present/lqO-gC3iB0E_000000_000010.mp4
 opening_present/lZyXpoj2nZA_000228_000238.mp4
@@ -6609,7 +6537,6 @@ passing_American_football_(not_in_game)/53XS5ThO1Gk_000000_000010.mp4
 passing_American_football_(not_in_game)/5FcCvppV4po_000049_000059.mp4
 passing_American_football_(not_in_game)/5FfDZucUwuk_000001_000011.mp4
 passing_American_football_(not_in_game)/8re7n7CS8EA_000066_000076.mp4
-passing_American_football_(not_in_game)/A-cFK0J3g_000004_000014.mp4
 passing_American_football_(not_in_game)/AMq1R51hs3g_000065_000075.mp4
 passing_American_football_(not_in_game)/DNmNQW3I94k_000004_000014.mp4
 passing_American_football_(not_in_game)/g6m5dfV0TpU_000000_000010.mp4
@@ -6633,7 +6560,6 @@ passing_American_football_(not_in_game)/Y6P5FoCkiGg_000014_000024.mp4
 passing_American_football_(not_in_game)/z13zf_Xmnok_000210_000220.mp4
 passing_American_football_(not_in_game)/zpDLbKOGEec_000002_000012.mp4
 passing_American_football_(not_in_game)/_iES22HxzDw_000001_000011.mp4
-passing_American_football_(not_in_game)/_KzHKa-zk_000003_000013.mp4
 peeling_apples/30pV0o6YpQM_000312_000322.mp4
 peeling_apples/BBUGpj9h9LE_000009_000019.mp4
 peeling_apples/bjIfptFWz0o_000010_000020.mp4
@@ -6670,7 +6596,6 @@ peeling_potatoes/benHf3ACp4Q_000034_000044.mp4
 peeling_potatoes/dA9FFjsLthY_000016_000026.mp4
 peeling_potatoes/Db9biUQaVaU_000010_000020.mp4
 peeling_potatoes/gtM_18Gh_K8_000018_000028.mp4
-peeling_potatoes/I-AVlY6KI_000000_000010.mp4
 peeling_potatoes/lh7f0aE2Y2Q_000015_000025.mp4
 peeling_potatoes/PNZWgaFJCuY_000043_000053.mp4
 peeling_potatoes/Sdl2GBGvSCM_000007_000017.mp4
@@ -6940,7 +6865,6 @@ playing_bass_guitar/JUYN-hs9rnY_000079_000089.mp4
 playing_bass_guitar/kOYVbEho7Hs_000080_000090.mp4
 playing_bass_guitar/KvBgTVREduU_000230_000240.mp4
 playing_bass_guitar/lyC_cw0w_gQ_000041_000051.mp4
-playing_bass_guitar/m4w-uQZ8E_000271_000281.mp4
 playing_bass_guitar/mXW5hrVg_fw_000012_000022.mp4
 playing_bass_guitar/nyyS0FSztKc_000155_000165.mp4
 playing_bass_guitar/ORBaRD25NCQ_000317_000327.mp4
@@ -6972,7 +6896,6 @@ playing_cards/muacVBC_4UA_000077_000087.mp4
 playing_cards/nB4pDxWLvlk_000203_000213.mp4
 playing_cards/oJS7pg2gpXg_000365_000375.mp4
 playing_cards/OKpz9iB1vyQ_000094_000104.mp4
-playing_cards/OrcTXB-Wc_000287_000297.mp4
 playing_cards/QL9pat1HRbw_000174_000184.mp4
 playing_cards/R9o1xAlPFDs_000137_000147.mp4
 playing_cards/rQS9IuJyTnI_000036_000046.mp4
@@ -6997,7 +6920,6 @@ playing_cello/I9uhuDRP5lQ_000230_000240.mp4
 playing_cello/K75zK5i35N4_000069_000079.mp4
 playing_cello/LX39qA4nsmY_000022_000032.mp4
 playing_cello/mauEQ42xyDY_000030_000040.mp4
-playing_cello/ojqVLTNB-_000011_000021.mp4
 playing_cello/PDgJ-XgnU7I_000051_000061.mp4
 playing_cello/qYYX6_X6C4E_000011_000021.mp4
 playing_cello/r64c79QDrEo_000027_000037.mp4
@@ -7022,7 +6944,6 @@ playing_chess/69bcRm3wbhE_000074_000084.mp4
 playing_chess/6Ou8CSt8THE_000182_000192.mp4
 playing_chess/8D52_iB4MFE_000648_000658.mp4
 playing_chess/9el733cPCyw_000038_000048.mp4
-playing_chess/ah4rX--dWg_000000_000010.mp4
 playing_chess/aH5jaorce2Q_000238_000248.mp4
 playing_chess/aYaJmkw1T6U_000010_000020.mp4
 playing_chess/CaBpWvrRx34_000168_000178.mp4
@@ -7261,8 +7182,6 @@ playing_didgeridoo/kjo-1ULmcEc_000004_000014.mp4
 playing_didgeridoo/myMFzbmmW3g_000054_000064.mp4
 playing_didgeridoo/PU2btpLZFDQ_000013_000023.mp4
 playing_didgeridoo/vfZ2Afu05Gw_000011_000021.mp4
-playing_didgeridoo/xi3jy9W-U_000004_000014.mp4
-playing_didgeridoo/Xk_mPr4-E_000000_000010.mp4
 playing_didgeridoo/_OUscj6Zu5k_000091_000101.mp4
 playing_drums/-1mK6Npz9JA_000038_000048.mp4
 playing_drums/b9-FK8Slfas_000092_000102.mp4
@@ -7314,7 +7233,6 @@ playing_flute/oE2rDLWAQo4_000112_000122.mp4
 playing_flute/pqI_JOA-5TA_000030_000040.mp4
 playing_flute/tvt3nmqIh1g_000082_000092.mp4
 playing_flute/v5cUHaL2Rk8_000038_000048.mp4
-playing_flute/W9A_EF-HQ_000001_000011.mp4
 playing_guitar/-DL09mZHnIo_000220_000230.mp4
 playing_guitar/-sNxsjGI1rk_000025_000035.mp4
 playing_guitar/2AJLDMWc8wM_000079_000089.mp4
@@ -7434,7 +7352,6 @@ playing_harp/TZb2_kVgcvw_000065_000075.mp4
 playing_harp/vGb7Z5QrNeA_000352_000362.mp4
 playing_harp/vxp45UGX1WA_000007_000017.mp4
 playing_harp/W00B9ecb_fM_000081_000091.mp4
-playing_harp/__qijXy2f0_000011_000021.mp4
 playing_ice_hockey/2ehPAKS6Gpo_000003_000013.mp4
 playing_ice_hockey/2G95cuc5Zuo_000002_000012.mp4
 playing_ice_hockey/2y03sd2oklM_000015_000025.mp4
@@ -7602,7 +7519,6 @@ playing_paintball/JtlRUa6BxNY_000091_000101.mp4
 playing_paintball/lm6qgrfJGmw_000027_000037.mp4
 playing_paintball/maV05pnWK00_000150_000160.mp4
 playing_paintball/mShDQKGS7rc_000142_000152.mp4
-playing_paintball/n-q3YllgY_000205_000215.mp4
 playing_paintball/NKl7ejz_1AU_000058_000068.mp4
 playing_paintball/P0E-8atZtfA_001415_001425.mp4
 playing_paintball/P159mQni0m0_000815_000825.mp4
@@ -7688,11 +7604,9 @@ playing_poker/AA_OL1jlBRw_001279_001289.mp4
 playing_poker/aEN6yTyXVzU_000026_000036.mp4
 playing_poker/AG05-iT5ocM_000001_000011.mp4
 playing_poker/aIeCHcK6c1M_000313_000323.mp4
-playing_poker/-cONL2vus_000000_000010.mp4
 playing_poker/Aqt0inu4kwE_000124_000134.mp4
 playing_poker/aXn9vYnMOzo_000168_000178.mp4
 playing_poker/b-MP9paUTgY_000053_000063.mp4
-playing_poker/Ba2-ktRRM_000069_000079.mp4
 playing_poker/BDVrFRZY5FI_000089_000099.mp4
 playing_poker/BEYSmMGWB6k_000088_000098.mp4
 playing_poker/bGA3lhk5F7g_000061_000071.mp4
@@ -7817,7 +7731,6 @@ playing_poker/ShJi5GIO8TQ_000167_000177.mp4
 playing_poker/SoxIsDf5Uug_000019_000029.mp4
 playing_poker/SRiA7tmywpQ_000283_000293.mp4
 playing_poker/T5cF4oEpXAM_000622_000632.mp4
-playing_poker/tMRu3qI-g_000009_000019.mp4
 playing_poker/tqwiQTq5C1A_000018_000028.mp4
 playing_poker/txoxFGWstjk_000070_000080.mp4
 playing_poker/TzAebSx3QtE_000028_000038.mp4
@@ -7861,7 +7774,6 @@ playing_poker/_obp1Q33Eyc_000027_000037.mp4
 playing_recorder/-stOdploQzI_000475_000485.mp4
 playing_recorder/0aG0-C_Z2_I_000046_000056.mp4
 playing_recorder/0f0peWt9KoQ_000058_000068.mp4
-playing_recorder/0VU4-GawE_000096_000106.mp4
 playing_recorder/1lomVhMD86M_000087_000097.mp4
 playing_recorder/2Fe4ElKNY2Y_000011_000021.mp4
 playing_recorder/2O6He2FjZI8_000003_000013.mp4
@@ -7886,7 +7798,6 @@ playing_recorder/gLuwvr-JvTY_000157_000167.mp4
 playing_recorder/gNdl_Swj6Xs_000032_000042.mp4
 playing_recorder/GxmmkESM_Us_000100_000110.mp4
 playing_recorder/H4oNTlUI88g_000002_000012.mp4
-playing_recorder/hoex-_JtU_000073_000083.mp4
 playing_recorder/I3HaaMCWYKg_000002_000012.mp4
 playing_recorder/JeU6IAwp44E_000099_000109.mp4
 playing_recorder/keBXdEj52co_000027_000037.mp4
@@ -7933,7 +7844,6 @@ playing_saxophone/f90aLO-fq5U_000052_000062.mp4
 playing_saxophone/FoEL6Tc2p6c_000127_000137.mp4
 playing_saxophone/hk3pxiZHZTk_000001_000011.mp4
 playing_saxophone/ig9iROO2Snk_000038_000048.mp4
-playing_saxophone/kEbympo_-_000113_000123.mp4
 playing_saxophone/kzpOyX8H0oQ_000282_000292.mp4
 playing_saxophone/LfZDUG6ncwQ_000008_000018.mp4
 playing_saxophone/lMNDLON93gA_000032_000042.mp4
@@ -8039,7 +7949,7 @@ playing_tennis/zTF-RS2nuIM_000086_000096.mp4
 playing_trombone/-YKM3T0Y4xU_000006_000016.mp4
 playing_trombone/2dX8gsoinBc_000006_000016.mp4
 playing_trombone/48UJfMq7PgQ_000004_000014.mp4
-playing_trombone/4G5R-Hd7w_000010_000020.mp4
+playing_trombone/4G5RAlqHd7w_000010_000020.mp4
 playing_trombone/7tCg_mYSiKw_000008_000018.mp4
 playing_trombone/A3XFYPUg3z0_000183_000193.mp4
 playing_trombone/aJzdGJSKvdk_000086_000096.mp4
@@ -8047,7 +7957,6 @@ playing_trombone/BS5RDSflZEc_000024_000034.mp4
 playing_trombone/C2kd7t9xwdw_000063_000073.mp4
 playing_trombone/dgz8ART34tc_000148_000158.mp4
 playing_trombone/EhsPhzNs7sw_000055_000065.mp4
-playing_trombone/f5SNAXwBf-aPcg_000050_000060.mp4
 playing_trombone/FTj6HnfECqI_000045_000055.mp4
 playing_trombone/GwQUJXiC_No_000080_000090.mp4
 playing_trombone/HdVzyEJeJvU_000192_000202.mp4
@@ -8110,7 +8019,6 @@ playing_ukulele/Bez2dLlZvps_000001_000011.mp4
 playing_ukulele/BgVSBSAqcso_000362_000372.mp4
 playing_ukulele/cC_0z5BKxxo_000037_000047.mp4
 playing_ukulele/cLOY7obMpL0_000049_000059.mp4
-playing_ukulele/EGQnO3-Do_000051_000061.mp4
 playing_ukulele/ekFzL_oFmcI_000029_000039.mp4
 playing_ukulele/GvbO-Djfxn8_000012_000022.mp4
 playing_ukulele/h9NbIJ68L2Y_000069_000079.mp4
@@ -8145,7 +8053,6 @@ playing_violin/c5EuWVWliNs_000000_000010.mp4
 playing_violin/casN4nUhivQ_000021_000031.mp4
 playing_violin/ev7_dqfVo1I_000035_000045.mp4
 playing_violin/FCHHk3bFDEs_000060_000070.mp4
-playing_violin/fH-COfEeY_000449_000459.mp4
 playing_violin/FNTJB2NnWYo_000139_000149.mp4
 playing_violin/FYv-2ehoGWo_000120_000130.mp4
 playing_violin/gC3ncU0BiLA_000144_000154.mp4
@@ -8161,7 +8068,6 @@ playing_violin/PgLBo3zWkWU_000002_000012.mp4
 playing_violin/qK2LfEIH-i4_000044_000054.mp4
 playing_violin/QXizDdHwszU_000139_000149.mp4
 playing_violin/RGj_Rh3lm8E_000040_000050.mp4
-playing_violin/vpj-ixBDY_000495_000505.mp4
 playing_violin/WaGuYuuLEV4_000002_000012.mp4
 playing_violin/WbPClFKzYX8_000212_000222.mp4
 playing_violin/WLsmdcFjfrk_000257_000267.mp4
@@ -8247,7 +8153,6 @@ pole_vault/GVcH2oT7vqQ_000006_000016.mp4
 pole_vault/IbNPX2TTSkQ_000004_000014.mp4
 pole_vault/Irz8kiHx3Lc_000013_000023.mp4
 pole_vault/IsuSgvzxNE8_000002_000012.mp4
-pole_vault/ISYUaexh-_000109_000119.mp4
 pole_vault/KmOKLVwLWno_000004_000014.mp4
 pole_vault/lRFzUxUJEeM_000001_000011.mp4
 pole_vault/nTObBGpVFHQ_000002_000012.mp4
@@ -8282,7 +8187,6 @@ presenting_weather_forecast/HIfhl2NcJgg_000064_000074.mp4
 presenting_weather_forecast/IicSIGbJ2q8_000032_000042.mp4
 presenting_weather_forecast/Me4VseRDwPM_000051_000061.mp4
 presenting_weather_forecast/N2gN_91kPpw_000002_000012.mp4
-presenting_weather_forecast/n_Bf-GW7_QTM_000153_000163.mp4
 presenting_weather_forecast/PrCtucrQHWU_000281_000291.mp4
 presenting_weather_forecast/VqccBgyIpUY_000019_000029.mp4
 presenting_weather_forecast/WI_0bwcz8pU_000053_000063.mp4
@@ -8327,7 +8231,6 @@ pull_ups/YPw6Ij9f42k_000063_000073.mp4
 pull_ups/zYeRvYRhRco_000046_000056.mp4
 pumping_fist/3XUn3K_VY0A_000001_000011.mp4
 pumping_fist/7P32DGpzuMU_000003_000013.mp4
-pumping_fist/-6eDEa_Zs_000011_000021.mp4
 pumping_fist/CWdljU5z1Sg_000003_000013.mp4
 pumping_fist/gHP8lROYYoo_000007_000017.mp4
 pumping_fist/hdQ1vrvE_fU_000003_000013.mp4
@@ -8503,7 +8406,6 @@ pushing_car/zpsqHEUFuUY_000001_000011.mp4
 pushing_car/_uCHp5Go7ZE_000006_000016.mp4
 pushing_cart/1l8AVj8-NV4_000004_000014.mp4
 pushing_cart/3h1KU0yKZ6Q_000000_000010.mp4
-pushing_cart/4i-1Nfe-I_000103_000113.mp4
 pushing_cart/5DjMJnmaFMM_000024_000034.mp4
 pushing_cart/854xpUy6G3Y_000088_000098.mp4
 pushing_cart/bMy1DEyCmgE_000025_000035.mp4
@@ -8587,7 +8489,6 @@ reading_book/YkRQTOnD_vU_000018_000028.mp4
 reading_book/z8QuJy10p94_000018_000028.mp4
 reading_book/ZDuIomJq-Kc_000007_000017.mp4
 reading_book/ZnWIfwq4RV0_000055_000065.mp4
-reading_newspaper/05-73__szY_000000_000010.mp4
 reading_newspaper/1ladDQ2q_cM_000010_000020.mp4
 reading_newspaper/bwIr_JdF5qc_000024_000034.mp4
 reading_newspaper/Gu_pyD5mSAs_002088_002098.mp4
@@ -8716,7 +8617,6 @@ riding_or_walking_with_horse/AssJrqZrfcY_000050_000060.mp4
 riding_or_walking_with_horse/CNVTPJgLsX4_000001_000011.mp4
 riding_or_walking_with_horse/fb1RftFlMlM_000081_000091.mp4
 riding_or_walking_with_horse/FwCORV_qLz0_000031_000041.mp4
-riding_or_walking_with_horse/hcwIW-hwg_000007_000017.mp4
 riding_or_walking_with_horse/k70uMr4x68s_000085_000095.mp4
 riding_or_walking_with_horse/KsgqRPA7Psg_000462_000472.mp4
 riding_or_walking_with_horse/lMhIONJK5jw_000108_000118.mp4
@@ -8778,7 +8678,6 @@ riding_unicycle/BDUqTXnJdqA_000013_000023.mp4
 riding_unicycle/D0Bere-NIBI_000047_000057.mp4
 riding_unicycle/dCqGDY_RPQ4_000003_000013.mp4
 riding_unicycle/DTW63H_n8LI_000021_000031.mp4
-riding_unicycle/EVcEBA--yw_000014_000024.mp4
 riding_unicycle/f2MN8OpSTdU_000210_000220.mp4
 riding_unicycle/HJnrkktHYBc_000053_000063.mp4
 riding_unicycle/id_XU2AyI5Y_000091_000101.mp4
@@ -8812,7 +8711,6 @@ ripping_paper/NCY54C-HoHg_000010_000020.mp4
 ripping_paper/sufH8nQLOSY_000050_000060.mp4
 ripping_paper/T1IQTmduA0M_000082_000092.mp4
 ripping_paper/VGXU-xSDm34_000093_000103.mp4
-ripping_paper/Vn63Phwj-_000031_000041.mp4
 ripping_paper/VVKV7RFtPyU_000000_000010.mp4
 ripping_paper/wWlSEvnOxe4_000151_000161.mp4
 ripping_paper/xKNUI5L42Gc_000024_000034.mp4
@@ -8821,7 +8719,6 @@ ripping_paper/_4oyqNu_ZRU_000004_000014.mp4
 robot_dancing/1kT7k86O0CE_000001_000011.mp4
 robot_dancing/2Gd_7HrpWWg_000343_000353.mp4
 robot_dancing/4f5SR6szvHE_000002_000012.mp4
-robot_dancing/5dz4xi--s_000094_000104.mp4
 robot_dancing/7xdSu_lAZhk_000014_000024.mp4
 robot_dancing/A0WmkIAW91E_000132_000142.mp4
 robot_dancing/aY5T2vjs1co_000006_000016.mp4
@@ -8918,7 +8815,6 @@ roller_skating/GJt7oWu-jnw_000183_000193.mp4
 roller_skating/hDuK5kCOhrg_000006_000016.mp4
 roller_skating/hfVU1koVhD8_000174_000184.mp4
 roller_skating/HRADKh8YNqs_000088_000098.mp4
-roller_skating/IU1719-RM_000058_000068.mp4
 roller_skating/JAcgvWTwsUY_000134_000144.mp4
 roller_skating/jCgrBnrvKP8_000000_000010.mp4
 roller_skating/JoqTr69ad80_000004_000014.mp4
@@ -8960,7 +8856,6 @@ roller_skating/Z6BZziUAPwU_000180_000190.mp4
 roller_skating/_lSD5AuscEg_000115_000125.mp4
 roller_skating/_Ripct6yvBg_000207_000217.mp4
 running_on_treadmill/0eW1HlaY3Q8_000007_000017.mp4
-running_on_treadmill/8-j-5CUwM_000150_000160.mp4
 running_on_treadmill/A0T4kILOet4_000000_000010.mp4
 running_on_treadmill/a3G4dnS4lEI_000016_000026.mp4
 running_on_treadmill/AdLARQMYa6E_000000_000010.mp4
@@ -9026,7 +8921,6 @@ salsa_dancing/pVVm5kcTPKU_000023_000033.mp4
 salsa_dancing/r4q1gRaaqrg_000150_000160.mp4
 salsa_dancing/syO4GTbZOmk_000049_000059.mp4
 salsa_dancing/VNRSHrMTIMU_000098_000108.mp4
-salsa_dancing/xs8RW-Bf-a4Y_000191_000201.mp4
 sanding_floor/1dSn1Xy8CCk_000058_000068.mp4
 sanding_floor/7G6JLXeyfGA_000207_000217.mp4
 sanding_floor/82Y6mt_u4W8_001009_001019.mp4
@@ -9077,7 +8971,6 @@ scrambling_eggs/xCLSDni7Yfk_000052_000062.mp4
 scrambling_eggs/xGfZOl8LFP4_000771_000781.mp4
 scrambling_eggs/XIbnKAy2n-o_000124_000134.mp4
 scrambling_eggs/XvaXOXwv9_I_000320_000330.mp4
-scrambling_eggs/zCXwq-50Y_000033_000043.mp4
 scrambling_eggs/ZDvN0Odcmvg_000091_000101.mp4
 scrambling_eggs/zwZg0HiTmDU_000013_000023.mp4
 scuba_diving/6kCNc60Ci98_000087_000097.mp4
@@ -9160,7 +9053,6 @@ sharpening_knives/sAqP2zWeK2I_000010_000020.mp4
 sharpening_knives/TWfq6RPPEMw_000033_000043.mp4
 sharpening_knives/yheN6wp8rME_000114_000124.mp4
 sharpening_knives/YP888U4RhSE_000049_000059.mp4
-sharpening_pencil/-RZu0s-50_000004_000014.mp4
 sharpening_pencil/1jqqEgwcOzw_000153_000163.mp4
 sharpening_pencil/58G3MnIidDM_000303_000313.mp4
 sharpening_pencil/5SgQbnqkOTk_000005_000015.mp4
@@ -9241,7 +9133,6 @@ shaving_head/kd0wRPDdm5o_000145_000155.mp4
 shaving_head/ky_ooLXTPxc_000185_000195.mp4
 shaving_head/l0YfO6ep2ao_000002_000012.mp4
 shaving_head/LL0b48P58iM_000037_000047.mp4
-shaving_head/LmS6IOK_Bf-o_000125_000135.mp4
 shaving_head/NDOVoN-1UdA_000436_000446.mp4
 shaving_head/NeveJNBkQV4_000045_000055.mp4
 shaving_head/NzerPSLwnho_000260_000270.mp4
@@ -9302,8 +9193,6 @@ shearing_sheep/piOSsnrdUqA_000031_000041.mp4
 shearing_sheep/rKG86ElqRZw_000002_000012.mp4
 shearing_sheep/S1TvhJYyshg_000144_000154.mp4
 shearing_sheep/V8mI40Xrd94_000082_000092.mp4
-shearing_sheep/Weawe9MB-_000048_000058.mp4
-shearing_sheep/yJ0m-PEbw_000000_000010.mp4
 shearing_sheep/yNDs-rWzZs4_000148_000158.mp4
 shining_shoes/4cxuBW2dzcg_000063_000073.mp4
 shining_shoes/4s_SzvTfgtc_000027_000037.mp4
@@ -9314,7 +9203,6 @@ shining_shoes/bx0ZnQOxZAo_000027_000037.mp4
 shining_shoes/d8VCTPTiZ1c_000027_000037.mp4
 shining_shoes/DAVlYaEClX8_000156_000166.mp4
 shining_shoes/duhin9LX16s_000014_000024.mp4
-shining_shoes/E-Wwi-ANo_000455_000465.mp4
 shining_shoes/eF1Aq8FIKIY_000098_000108.mp4
 shining_shoes/FBzyvezXCsQ_000004_000014.mp4
 shining_shoes/fsHP3Bxg2wA_000551_000561.mp4
@@ -9593,7 +9481,6 @@ singing/hdvoYAZIgtk_000102_000112.mp4
 singing/Hs3iEotwwH4_000059_000069.mp4
 singing/HwV54HZUMdU_000063_000073.mp4
 singing/IcOkR9EgR0c_000075_000085.mp4
-singing/Io1mMW-rM_000047_000057.mp4
 singing/mlyTYHlnjD8_000031_000041.mp4
 singing/MuZH2slbtRE_000025_000035.mp4
 singing/ncS7mh5iwWk_000099_000109.mp4
@@ -9648,7 +9535,6 @@ skateboarding/7DJ5qEzIinU_000037_000047.mp4
 skateboarding/7Xo4jZDxBD4_000139_000149.mp4
 skateboarding/9CXHY8zG1X0_000014_000024.mp4
 skateboarding/a1wIcy0O2V8_000150_000160.mp4
-skateboarding/-0J3adAEI_000074_000084.mp4
 skateboarding/D70KfZOBkok_000216_000226.mp4
 skateboarding/DmshucWUlxU_000194_000204.mp4
 skateboarding/dSJdQkdJRnc_000045_000055.mp4
@@ -9828,7 +9714,6 @@ skipping_rope/saA1CsuwGio_000021_000031.mp4
 skipping_rope/ttlRVBETEYk_000063_000073.mp4
 skydiving/4U-Jg5LLmnU_000096_000106.mp4
 skydiving/7U2uypwyu34_000332_000342.mp4
-skydiving/CrvXAyAXwBf-YM_000342_000352.mp4
 skydiving/IQFf05Qg8WE_000104_000114.mp4
 skydiving/KayY28PNp2U_000013_000023.mp4
 skydiving/MX3RZj559Lo_000184_000194.mp4
@@ -9836,7 +9721,6 @@ skydiving/ny-BaYZVBTE_000116_000126.mp4
 skydiving/SIlsVg7dbx8_000145_000155.mp4
 skydiving/zSjKX52WyXM_000002_000012.mp4
 slacklining/1K3TeOQGrB4_000121_000131.mp4
-slacklining/1o-S1Jp9w_000002_000012.mp4
 slacklining/5vBI4_oOeWU_000023_000033.mp4
 slacklining/5VhywAPrvjs_000027_000037.mp4
 slacklining/DtDbhQIJORU_000133_000143.mp4
@@ -9848,7 +9732,6 @@ slacklining/RVCJiZVcfis_000059_000069.mp4
 slacklining/S5ebb_JereE_000003_000013.mp4
 slacklining/SgoFGDhCsp4_000021_000031.mp4
 slacklining/UgsBf8YUZZo_000108_000118.mp4
-slacklining/wLID-Bf-nAew_000070_000080.mp4
 slacklining/Y3vHZaEulxk_000002_000012.mp4
 slacklining/Z2H28UnNcBg_000019_000029.mp4
 slapping/0WQmq75TFVI_000000_000010.mp4
@@ -10068,7 +9951,6 @@ snatch_weight_lifting/2261_IMFKvc_000010_000020.mp4
 snatch_weight_lifting/I6I34T8HaWo_000020_000030.mp4
 snatch_weight_lifting/Lpb6KYIEEG0_000002_000012.mp4
 snatch_weight_lifting/MsLbtSLsKy8_000001_000011.mp4
-snatch_weight_lifting/NsQ-eACwE_000019_000029.mp4
 snatch_weight_lifting/OFr9F3krjDs_000045_000055.mp4
 snatch_weight_lifting/REiR8MArgRc_000029_000039.mp4
 snatch_weight_lifting/sWCYPydL9jY_000012_000022.mp4
@@ -10149,7 +10031,6 @@ snowboarding/E8dUx_dNFX8_000338_000348.mp4
 snowboarding/E8KNWIXRODA_000107_000117.mp4
 snowboarding/f4DmGGh3w4o_000002_000012.mp4
 snowboarding/fbvBBsXcSyI_000227_000237.mp4
-snowboarding/fk-BdhJF4_000057_000067.mp4
 snowboarding/GHvI0eAwF4Q_000202_000212.mp4
 snowboarding/hSF0zafvfXU_000018_000028.mp4
 snowboarding/hte8aobWNrY_000001_000011.mp4
@@ -10194,7 +10075,6 @@ snowkiting/XaY7phj16B8_000052_000062.mp4
 snowkiting/yOG8Aw7mW68_000021_000031.mp4
 snowkiting/ZuioA_QJx40_000040_000050.mp4
 snowmobiling/9vA0U0I9hmA_000017_000027.mp4
-snowmobiling/f7LAXw-Pf7j0_000009_000019.mp4
 snowmobiling/IXjDiA6qiVg_000057_000067.mp4
 snowmobiling/lgCKjPGnB1s_000028_000038.mp4
 snowmobiling/S5aaCpV9G0Q_000020_000030.mp4
@@ -10302,7 +10182,6 @@ spraying/4K5UZXk8iiY_000663_000673.mp4
 spraying/4PGyn3nit9Q_000128_000138.mp4
 spraying/cdAZ_ApF-24_000087_000097.mp4
 spraying/rENqNKYl040_000020_000030.mp4
-spraying/wz2A3_-OBM_000018_000028.mp4
 springboard_diving/DDloSnpYAEI_000020_000030.mp4
 springboard_diving/e8h5pO_kaXE_000475_000485.mp4
 springboard_diving/HfIRX4S2L1g_000002_000012.mp4
@@ -10376,7 +10255,6 @@ sticking_tongue_out/XOq_N_Wow0Q_000000_000010.mp4
 sticking_tongue_out/YOvTNr4YM-s_000021_000031.mp4
 sticking_tongue_out/ZlXGQrnQjdc_000004_000014.mp4
 sticking_tongue_out/_Mw-_Ul1y1A_000169_000179.mp4
-stomping_grapes/00Dn8_N-k_000064_000074.mp4
 stomping_grapes/6eCeipeqQ-4_000136_000146.mp4
 stomping_grapes/Aym6eTTuJOk_000062_000072.mp4
 stomping_grapes/IofDHcY5GH8_000028_000038.mp4
@@ -10392,7 +10270,6 @@ stretching_arm/buM3vy8D46w_000010_000020.mp4
 stretching_arm/ICD8owSD1sg_000046_000056.mp4
 stretching_arm/jA4P0Lmv_UQ_000392_000402.mp4
 stretching_arm/jpi7DOjqBdk_000083_000093.mp4
-stretching_arm/lqtsOAXwBf-jRs_000047_000057.mp4
 stretching_arm/lwpaAq9JA48_000006_000016.mp4
 stretching_arm/N1Ro70IQEMc_000032_000042.mp4
 stretching_arm/PdPiGrnCy8I_000000_000010.mp4
@@ -10408,7 +10285,7 @@ stretching_arm/ZLhVCBEiqLU_000003_000013.mp4
 stretching_arm/_3YCjS8we84_000028_000038.mp4
 stretching_leg/-HXrt1lO7MM_000003_000013.mp4
 stretching_leg/4KW53YT2yoc_000107_000117.mp4
-stretching_leg/-RYmooXwM_000408_000418.mp4
+stretching_leg/At-RYmooXwM_000408_000418.mp4
 stretching_leg/c-rlWowSn9o_000041_000051.mp4
 stretching_leg/CKt5VwZfc2U_000139_000149.mp4
 stretching_leg/cNhVZHFJwKo_000793_000803.mp4
@@ -10456,7 +10333,6 @@ strumming_guitar/JJUz6fH-BRw_000014_000024.mp4
 strumming_guitar/nOyI4UW0gx4_000001_000011.mp4
 strumming_guitar/QrSO-d08oYY_000224_000234.mp4
 strumming_guitar/XDYYM_Awg7s_000165_000175.mp4
-surfing_crowd/40AmYAXw-8Gk_000010_000020.mp4
 surfing_crowd/6-orLNDkaGw_000011_000021.mp4
 surfing_crowd/bpELpfGRU_Y_000068_000078.mp4
 surfing_crowd/d26kGGzCX5U_000081_000091.mp4
@@ -10515,7 +10391,6 @@ swimming_backstroke/1WkO5awgTuA_000021_000031.mp4
 swimming_backstroke/5ZzSYKdiPbY_000033_000043.mp4
 swimming_backstroke/64nZkoT17Ww_000026_000036.mp4
 swimming_backstroke/6BT-e_RLvAs_000016_000026.mp4
-swimming_backstroke/6HQx-mhKU_000012_000022.mp4
 swimming_backstroke/8k79NjeY5hE_000071_000081.mp4
 swimming_backstroke/9jCW_Og5psM_000019_000029.mp4
 swimming_backstroke/9KYEdWHh7KY_000061_000071.mp4
@@ -10526,7 +10401,6 @@ swimming_backstroke/Ej1HUoF6P-0_000032_000042.mp4
 swimming_backstroke/fGi160bNbyk_000172_000182.mp4
 swimming_backstroke/IqMAeWEmXZw_000191_000201.mp4
 swimming_backstroke/j61dLrkG8ic_000017_000027.mp4
-swimming_backstroke/JsIWl3-3s_000012_000022.mp4
 swimming_backstroke/k-7UH-uj7MI_000000_000010.mp4
 swimming_backstroke/LOCP0UxaUkA_000004_000014.mp4
 swimming_backstroke/m3zaJj3q9jI_000128_000138.mp4
@@ -10534,7 +10408,6 @@ swimming_backstroke/m91qzchv9ZQ_000024_000034.mp4
 swimming_backstroke/nCNZpvCffdE_000021_000031.mp4
 swimming_backstroke/POG85e4cCKI_000001_000011.mp4
 swimming_backstroke/uA5SUmIw97U_000003_000013.mp4
-swimming_backstroke/v2_-Vyao0I_000002_000012.mp4
 swimming_backstroke/X-smVU1xwr8_000012_000022.mp4
 swimming_backstroke/xviHn1Qg-5s_000005_000015.mp4
 swimming_breast_stroke/dqVBTayOr90_000004_000014.mp4
@@ -10547,7 +10420,6 @@ swimming_breast_stroke/MeWu3w1AWCI_000065_000075.mp4
 swimming_breast_stroke/thQFsS1K89o_000044_000054.mp4
 swimming_breast_stroke/v2dZvfv5440_000025_000035.mp4
 swimming_breast_stroke/xfcL-s9uj5M_000019_000029.mp4
-swimming_butterfly_stroke/1_-09LCWLU_000000_000010.mp4
 swimming_butterfly_stroke/5qBJaF9g3HU_000015_000025.mp4
 swimming_butterfly_stroke/7WU-VogBJoE_000035_000045.mp4
 swimming_butterfly_stroke/7XQMQQJ18OQ_000027_000037.mp4
@@ -10588,7 +10460,6 @@ swinging_on_something/5fVzCgtl51Q_000026_000036.mp4
 swinging_on_something/ah6WDMeyDj4_000027_000037.mp4
 swinging_on_something/EO6Na7OAh8Y_000093_000103.mp4
 swinging_on_something/HOV-Ra36Aoo_000066_000076.mp4
-swinging_on_something/Iuv_-nyO1M_000135_000145.mp4
 swinging_on_something/LH7w1k6slAg_000054_000064.mp4
 swinging_on_something/LWz7ikAiqMc_000016_000026.mp4
 swinging_on_something/N-3ni8D4CXE_000089_000099.mp4
@@ -10629,7 +10500,6 @@ tai_chi/jjoR2d8dzkM_000041_000051.mp4
 tai_chi/k9ZuqLRKcys_000115_000125.mp4
 tai_chi/LBFHjOhYvWo_000388_000398.mp4
 tai_chi/lOi9MEJsZNE_000254_000264.mp4
-tai_chi/mtD58a_-qY_000171_000181.mp4
 tai_chi/MZmMwSYwLGQ_000160_000170.mp4
 tai_chi/ohieBxfM4VE_000083_000093.mp4
 tai_chi/P4TVCJ3Pv4I_000014_000024.mp4
@@ -10638,7 +10508,6 @@ tai_chi/PxC2h0ZAT6E_000150_000160.mp4
 tai_chi/QJR6_St-hMs_000062_000072.mp4
 tai_chi/QTiZfsQT73s_000027_000037.mp4
 tai_chi/qV7-cf8Mf4Q_000064_000074.mp4
-tai_chi/r-DakaJkc_000006_000016.mp4
 tai_chi/RHYkxdxsSyk_000077_000087.mp4
 tai_chi/ToiMZyyjZhE_001225_001235.mp4
 tai_chi/uBZRMlxDwfU_000015_000025.mp4
@@ -10667,7 +10536,6 @@ tango_dancing/AChvG98FDtw_000143_000153.mp4
 tango_dancing/BKcFmHwU52A_000000_000010.mp4
 tango_dancing/bMKJvKN3sYw_000012_000022.mp4
 tango_dancing/CISDRLWxcjU_000255_000265.mp4
-tango_dancing/Iu0pvd-Bk_000020_000030.mp4
 tango_dancing/jYE2GnfSs-Q_000003_000013.mp4
 tango_dancing/JYzSSSy-Lio_000049_000059.mp4
 tango_dancing/k1udYKu3_f4_000015_000025.mp4
@@ -10679,7 +10547,6 @@ tango_dancing/SC4sGLWngBU_000146_000156.mp4
 tango_dancing/Wy9FL5fzrPY_000116_000126.mp4
 tango_dancing/x3p4VA49BVs_000054_000064.mp4
 tango_dancing/xhdd327CLqA_000067_000077.mp4
-tango_dancing/xJv07RGAXwBf-M_000153_000163.mp4
 tango_dancing/YWEHzAlttnQ_000151_000161.mp4
 tango_dancing/ZVC6-BYNs3I_000013_000023.mp4
 tango_dancing/ZWFiu8xp73c_000124_000134.mp4
@@ -10691,7 +10558,6 @@ tap_dancing/bYgvxZiHDaM_000032_000042.mp4
 tap_dancing/i7DFZVQLd_U_000025_000035.mp4
 tap_dancing/JV3ZV7kgFqE_000012_000022.mp4
 tap_dancing/kFgpxGqbNz0_000005_000015.mp4
-tap_dancing/l4--8j_NXk_000007_000017.mp4
 tap_dancing/LASDR-xlDGs_000004_000014.mp4
 tap_dancing/MQaLTglqSos_000013_000023.mp4
 tap_dancing/O91-5AvACBI_000013_000023.mp4
@@ -10700,7 +10566,6 @@ tap_dancing/RMecIW_4Cpg_000029_000039.mp4
 tap_dancing/RxxG_wVW09w_000273_000283.mp4
 tap_dancing/t6gqXGcCpM8_000093_000103.mp4
 tap_dancing/tsGRSR3iUyg_000107_000117.mp4
-tap_dancing/TT6C-J49A_000026_000036.mp4
 tap_dancing/wi87e2V64FA_000083_000093.mp4
 tap_dancing/xErcrT9f3iA_000106_000116.mp4
 tap_dancing/XpQDWOA0Oxo_000189_000199.mp4
@@ -10732,7 +10597,6 @@ tapping_pen/5RIXvl_zY68_000066_000076.mp4
 tapping_pen/7v5SKMrE6e4_000143_000153.mp4
 tapping_pen/aRCvnDWs16E_000091_000101.mp4
 tapping_pen/BlMrTcHj7As_000176_000186.mp4
-tapping_pen/E_Bf-r_FZ9v8_000150_000160.mp4
 tapping_pen/GwCPiIB4PkI_000217_000227.mp4
 tapping_pen/Igk0gY_U2uo_000234_000244.mp4
 tapping_pen/k7i_lhLzg9E_000000_000010.mp4
@@ -10826,7 +10690,6 @@ tasting_food/V-KZJfx8XCc_000116_000126.mp4
 tasting_food/y0mJw_8xtM4_000742_000752.mp4
 tasting_food/YJmKVdmgbxI_000040_000050.mp4
 tasting_food/_yGRSuqhK0I_000278_000288.mp4
-testifying/--QUuC4vJs_000084_000094.mp4
 testifying/2E6v1YSdL9Q_000072_000082.mp4
 testifying/3CYW6a-vDKI_000247_000257.mp4
 testifying/8X6qDX_S3EA_000195_000205.mp4
@@ -11125,12 +10988,10 @@ tying_bow_tie/dTyHpYuCbiA_000017_000027.mp4
 tying_bow_tie/fhY0fZVZjcA_000050_000060.mp4
 tying_bow_tie/FKk_LZf6WM0_000026_000036.mp4
 tying_bow_tie/JVXyfktw4tM_000075_000085.mp4
-tying_bow_tie/KnxUZj0AXwBf-0_000009_000019.mp4
 tying_bow_tie/N_5j-hjbh8k_000000_000010.mp4
 tying_bow_tie/oJhwqmbjmLw_000072_000082.mp4
 tying_bow_tie/TPkOvcJB48g_000014_000024.mp4
 tying_knot_(not_on_a_tie)/1FblcugtDtc_000055_000065.mp4
-tying_knot_(not_on_a_tie)/1r-KlG-ks_000002_000012.mp4
 tying_knot_(not_on_a_tie)/3chv9SqyP14_000001_000011.mp4
 tying_knot_(not_on_a_tie)/3in7PQziXVo_000056_000066.mp4
 tying_knot_(not_on_a_tie)/Aho5v5UB2xI_000013_000023.mp4
@@ -11138,7 +10999,6 @@ tying_knot_(not_on_a_tie)/AQL2PO1Ptz0_000003_000013.mp4
 tying_knot_(not_on_a_tie)/AWkwBZGav4c_000219_000229.mp4
 tying_knot_(not_on_a_tie)/BqKdIBBFRq4_000029_000039.mp4
 tying_knot_(not_on_a_tie)/e-zGEcLu1Qc_000000_000010.mp4
-tying_knot_(not_on_a_tie)/eCn__azG0U_000017_000027.mp4
 tying_knot_(not_on_a_tie)/EIR8gEZS8k0_000003_000013.mp4
 tying_knot_(not_on_a_tie)/eQSz8usfxjA_000053_000063.mp4
 tying_knot_(not_on_a_tie)/FodOiiXGJBI_000048_000058.mp4
@@ -11151,7 +11011,6 @@ tying_knot_(not_on_a_tie)/HplczPLuu7Q_000040_000050.mp4
 tying_knot_(not_on_a_tie)/JWNEaHJSO3U_000003_000013.mp4
 tying_knot_(not_on_a_tie)/KwKrqfee99g_000087_000097.mp4
 tying_knot_(not_on_a_tie)/M54h4BDtXNA_000035_000045.mp4
-tying_knot_(not_on_a_tie)/Nv_Bf-UuBPQQ_000063_000073.mp4
 tying_knot_(not_on_a_tie)/oB0nk_A54Vw_000097_000107.mp4
 tying_knot_(not_on_a_tie)/OPltv00wU2Y_000527_000537.mp4
 tying_knot_(not_on_a_tie)/OQzWq6yf77w_000002_000012.mp4
@@ -11269,7 +11128,7 @@ unloading_truck/SA2_3Y_9TuI_000055_000065.mp4
 unloading_truck/UpCI46hIXZA_000416_000426.mp4
 unloading_truck/Us31NSp4wI8_000022_000032.mp4
 unloading_truck/Xw9cyqap0B8_000001_000011.mp4
-unloading_truck/x_x-p---I_000004_000014.mp4
+unloading_truck/x_x-p-AT--I_000004_000014.mp4
 unloading_truck/zGlDYwSCedw_000042_000052.mp4
 using_computer/-9uctPDzJfc_000010_000020.mp4
 using_computer/-n8W0yzpW90_000176_000186.mp4
@@ -11319,7 +11178,6 @@ using_computer/YYse7aMNaI0_000060_000070.mp4
 using_remote_controller_(not_gaming)/3bPW5dh9YL4_000059_000069.mp4
 using_remote_controller_(not_gaming)/akXRA5_jJRk_000007_000017.mp4
 using_remote_controller_(not_gaming)/dGTDlBWgFRk_000012_000022.mp4
-using_remote_controller_(not_gaming)/F5Gwl9t-I_000035_000045.mp4
 using_remote_controller_(not_gaming)/gMhU5_gmbD0_000012_000022.mp4
 using_remote_controller_(not_gaming)/gmjAAuK7t_w_000022_000032.mp4
 using_remote_controller_(not_gaming)/GZq79oXdxHU_000079_000089.mp4
@@ -11329,7 +11187,6 @@ using_remote_controller_(not_gaming)/o4RFuoQvAwI_000010_000020.mp4
 using_remote_controller_(not_gaming)/PFUOuN0QLf4_000148_000158.mp4
 using_remote_controller_(not_gaming)/PQ8tNCAIFPs_000014_000024.mp4
 using_remote_controller_(not_gaming)/Pur-WDGSkCo_000129_000139.mp4
-using_remote_controller_(not_gaming)/tpAXw-Yz-jKQ_000026_000036.mp4
 using_remote_controller_(not_gaming)/W7_r2FFl-r4_000217_000227.mp4
 using_remote_controller_(not_gaming)/WjyBpudfpI4_000084_000094.mp4
 using_remote_controller_(not_gaming)/wz6XNpB9eIM_000135_000145.mp4
@@ -11414,7 +11271,6 @@ walking_the_dog/Y_fXEczgP08_000032_000042.mp4
 walking_the_dog/Zd8RUO017PM_000098_000108.mp4
 walking_the_dog/zGu86jF8Gw8_000707_000717.mp4
 walking_the_dog/znZHF-jOpT8_000095_000105.mp4
-walking_the_dog/_-hGEcF-Co_000088_000098.mp4
 washing_dishes/0sZDeFe3J0s_000028_000038.mp4
 washing_dishes/2zKB3-cBvVY_000359_000369.mp4
 washing_dishes/7aTVjNYy8EY_000149_000159.mp4
@@ -11426,7 +11282,6 @@ washing_dishes/dP3D9-s5srE_000044_000054.mp4
 washing_dishes/eis4HeP5TeQ_000194_000204.mp4
 washing_dishes/f3qSkoNMAmE_000069_000079.mp4
 washing_dishes/fdXf9vJfo1g_000000_000010.mp4
-washing_dishes/G6G-iZE3E_000004_000014.mp4
 washing_dishes/GtvqTO2_Y8o_000015_000025.mp4
 washing_dishes/GTYbwSAks4g_000018_000028.mp4
 washing_dishes/HSxbB0yYYqI_000014_000024.mp4
@@ -11439,9 +11294,7 @@ washing_dishes/LKQTDTwpMkM_000012_000022.mp4
 washing_dishes/LUJKgq4Gc1o_000001_000011.mp4
 washing_dishes/M7wxFdouY4o_003012_003022.mp4
 washing_dishes/MtKuQswcFRk_000093_000103.mp4
-washing_dishes/nn8-jpGGw_000157_000167.mp4
 washing_dishes/PiKlckDWS6M_000147_000157.mp4
-washing_dishes/pTq8mTx-Y_000031_000041.mp4
 washing_dishes/QfKZ7uDgsfc_000133_000143.mp4
 washing_dishes/SQLN0Wg_V38_000007_000017.mp4
 washing_dishes/SyBP_5nBMyM_000013_000023.mp4
@@ -11510,7 +11363,6 @@ washing_hands/blOvPaUl-Xc_000126_000136.mp4
 washing_hands/BMoOEBngWb0_000033_000043.mp4
 washing_hands/bZ26qIeIKW4_000002_000012.mp4
 washing_hands/c5qpBWCy5nk_000041_000051.mp4
-washing_hands/cO4p-b_Bf-Gw_000110_000120.mp4
 washing_hands/Cr2uz5VqVk0_000027_000037.mp4
 washing_hands/dy_143Kyiqk_000001_000011.mp4
 washing_hands/ErbEdBNhTdA_000011_000021.mp4
@@ -11535,7 +11387,6 @@ washing_hands/XvN74bbo1wo_000101_000111.mp4
 washing_hands/ztgwNy0Tbfg_000033_000043.mp4
 water_skiing/4bhvIHWADVU_000022_000032.mp4
 water_skiing/8AquEqWs8Kk_000007_000017.mp4
-water_skiing/a-QuuwCGg_000000_000010.mp4
 water_skiing/brLLL8ezpc8_000018_000028.mp4
 water_skiing/DaN-pfs7ptg_000020_000030.mp4
 water_skiing/DMLJ_UuN05g_000345_000355.mp4
@@ -11593,7 +11444,6 @@ waxing_chest/fRubKMsmBzA_000005_000015.mp4
 waxing_chest/G-9uJ3Lnqow_000037_000047.mp4
 waxing_chest/gXhaZuzsHsc_000038_000048.mp4
 waxing_chest/Jrf26Je5Mcc_000001_000011.mp4
-waxing_chest/KcGLtv16-_000062_000072.mp4
 waxing_chest/lNJrhBH4e5o_000137_000147.mp4
 waxing_chest/O7imFR8gmYI_000003_000013.mp4
 waxing_chest/rbAL66CdQAQ_000019_000029.mp4
@@ -11684,7 +11534,6 @@ waxing_legs/yyR9BSuoPk0_000522_000532.mp4
 waxing_legs/Z6qoTyoOHsI_000215_000225.mp4
 waxing_legs/_PhGTqcrJnM_000476_000486.mp4
 waxing_legs/_qsjHCFZSq0_000220_000230.mp4
-waxing_legs/_zM7-sB_o_000002_000012.mp4
 weaving_basket/5t00MftOIK0_000340_000350.mp4
 weaving_basket/dG7QJCFs2KI_000229_000239.mp4
 weaving_basket/dqDlArRmJ8g_000355_000365.mp4
@@ -11863,7 +11712,6 @@ writing/kUDBzCFYZvk_000029_000039.mp4
 writing/LeAO47GCD08_000151_000161.mp4
 writing/lwKH2NUAiWc_000105_000115.mp4
 writing/mB3bJG7L9EM_000044_000054.mp4
-writing/mJf3QeXP-_000102_000112.mp4
 writing/OlVy83QcgOk_000022_000032.mp4
 writing/p-M6O_BIh-k_000032_000042.mp4
 writing/TLfR8hr0JLQ_000084_000094.mp4
@@ -12041,7 +11889,6 @@ zumba/hR5RmQcibVk_000058_000068.mp4
 zumba/iJRSrWxaQ8c_000131_000141.mp4
 zumba/jVJGL5KCVHY_000025_000035.mp4
 zumba/lmvo4VISevc_000086_000096.mp4
-zumba/mdmvFIAXwBf-5g_000110_000120.mp4
 zumba/MoeD_IiWJao_000146_000156.mp4
 zumba/oA8nNMH-pTE_000044_000054.mp4
 zumba/oAJ_G3GmQD4_000051_000061.mp4
