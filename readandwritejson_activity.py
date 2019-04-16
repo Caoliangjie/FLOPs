@@ -28,3 +28,4 @@ with open(fi,'r') as load_f:
 print(count)
 for k,v in new_dict.items():
    print(k)
+##json文件读出不同的并且重新写到json文件中
